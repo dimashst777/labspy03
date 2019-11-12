@@ -104,7 +104,7 @@ C. Output
 ## SREENSHOOT INPUT DAN OUTPUT
   
 
-![input/output](https://github.com/dimashst777/labspy03/blob/master/latihan2.py)  
+  ![input/output](https://github.com/dimashst777/labspy03/blob/master/latihan2.py)  
 
  
 
@@ -177,7 +177,7 @@ A. Input
 ## SCREENSHOOT INPUT DAN OUTPUT   
  
 
-![input/output](https://github.com/dimashst777/labspy03/blob/master/program11.py)    
+  ![input/output](https://github.com/dimashst777/labspy03/blob/master/program11.py)    
 
 
 

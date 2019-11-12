@@ -54,10 +54,10 @@ C. Output
 
 
 
-## SCREENSHOOT INPUT DAN OUTPUT  
+## SCREENSHOOT INPUT DAN OUTPUT    
 
 
-![input/output](https://github.com/dimashst777/labspy03/blob/master/folder%20gambar/latihan1.png)    
+![input/output](https://github.com/dimashst777/labspy03/blob/master/folder%20gambar/latihan1.png)   
 
 
 
@@ -104,7 +104,7 @@ C. Output
 ## SREENSHOOT INPUT DAN OUTPUT
   
 
-  ![input/output](https://github.com/dimashst777/labspy03/blob/master/latihan2.py)  
+  ![input/output]()  
 
  
 
@@ -175,15 +175,14 @@ A. Input
       >> Mencetak total laba    
 
 ## SCREENSHOOT INPUT DAN OUTPUT   
- 
 
-  ![input/output](https://github.com/dimashst777/labspy03/blob/master/program11.py)    
-
+![input/output](https://github.com/dimashst777/labspy03/blob/master/folder%20gambar/program1.png)   
 
 
-Dimas Hidayat Parluhutan Hutasuhut
-T.I.19.A.1.
-NIM:311910159
+
+Dimas Hidayat Parluhutan Hutasuhut  
+T.I.19.A.1.  
+NIM:311910159  
 
 
 

@@ -103,9 +103,10 @@ C. Output
 
 ## SREENSHOOT INPUT DAN OUTPUT
 
-  ![input/output](https://github.com/dimashst777/labspy03/blob/master/latihan2.py)   
 
- 
+![input/output](https://github.com/dimashst777/labspy03/blob/master/folder%20gambar/latihan2.png)
+
+
 
    
 

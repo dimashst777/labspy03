@@ -1,6 +1,6 @@
 # labspy03
 
-#LATIHAN 1
+##LATIHAN 1
 
 ## SOURCE CODE  
 
@@ -106,8 +106,11 @@ C. Output
 
 
 ## SREENSHOOT INPUT DAN OUTPUT
+  
 
-![input/output](https://github.com/dimashst777/labspy03/blob/master/latihan2.py)    
+![input/output](https://github.com/dimashst777/labspy03/blob/master/latihan2.py)   
+
+   
 
 ## PROGRAM 1
 

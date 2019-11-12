@@ -1,10 +1,10 @@
 # labspy03
 
-##LATIHAN 1
+# LATIHAN 1
 
 ## SOURCE CODE  
 
-Source Code
+
 n=int(input("Masukkan Nilai N: "))          ## Memperkenalkan variable n sebagai integer, kemudian menginputkan nilainya
 
 from random import random                   ## Mengimport fungsi random
@@ -22,7 +22,7 @@ print("\nDone")
 
 ## ALGORITMA  
 
-A. Input 
+A. Input  
     Print
         >> print berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.  
     from random import random  
@@ -39,13 +39,13 @@ A. Input
     step=1  
         >> Step angka 1  
         
-B. Process 
+B. Process   
     n = int(input("Masukan Nilai N: "))  
         >>merupakan fungsi untuk menghasilkan integer  
     for i in range(start,stop,step):  
         >>Perulangan i dengan nilai awal variable start, nilai akhir variable stop dan step variable step\  
         
-C. Output
+C. Output  
     print("data ke : ",i,"=",(a))
         >> Mencetak hasil
     print("\nDone")
@@ -61,9 +61,9 @@ C. Output
 
 
 
-# LATIHAN 2
+# LATIHAN 2  
 
-    ## SOURCE CODE  
+    ## SOURCE CODE   
 
 x = int()                                ## Memperkenalkan variable x sebagai integer, kemudian menginputkan nilainya
 y = 0                                    ## Memperkenalkan variable y dengan nilai 0
@@ -79,7 +79,7 @@ print("\nAngka Terbesar Adalah ",y)      ## Mencetak bilangan terbesar
 ## ALGORITMA  
 
 
-A. Input 
+A. Input   
       Print
           >> berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
       x = int()
@@ -87,34 +87,32 @@ A. Input
       y = 0
           >> Memperkenalkan variable y dengan nilai 0
           
-B. Process
-      while x >= 0:
-       x = int(input("Masukkan Bilangan: "))
-       if x > y:
-       y = int(x)
-       if x == 0:
-         break
-           
-           ## "while"	: disebut uncounted loop (perulangan yang tak terhitung),
-           ## "int"	: berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
-           ## "if"	= Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.
-           ## "break"	: fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai.
-
-C. Output
+B. Process  
+      while x >= 0:  							 ## "while"	: disebut uncounted loop (perulangan yang tak terhitung),
+       x = int(input("Masukkan Bilangan: "))				 ## "int"	: berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
+       if x > y: 							 ## "int"	: berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
+       y = int(x)							 
+       if x == 0:							 ## "if"	= Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.
+         break								 ## "break"	: fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai.
+ 
+C. Output  
       print("\nAngka Terbesar Adalah ",y)
           >>Untuk menampilkan Hasil dengan mencetak bilangan terbesar yaitu y
+
 
 
 ## SREENSHOOT INPUT DAN OUTPUT
   
 
-![input/output](https://github.com/dimashst777/labspy03/blob/master/latihan2.py)   
+![input/output](https://github.com/dimashst777/labspy03/blob/master/latihan2.py)  
+
+ 
 
    
 
 ## PROGRAM 1
 
-## SOURCE CODE
+## SOURCE CODE  
 
 modal = 100000000                              ## Nilai modal
 laba = 0                                       ## Nilai laba 0
@@ -136,9 +134,9 @@ for i in range(1,9,1):                         ## Perulangan i dengan nilai awal
 print("\nTotal Laba adalah: ",untung)          ## Menghitung total laba selama 8 bulan
 
 
-## ALGORITMA
+## ALGORITMA  
 
-A. Input 
+A. Input   
         modal = 100000000
         laba = 0
         untung = 0 
@@ -148,7 +146,7 @@ A. Input
             ##"laba"    = adalah variable laba
             ##"untung"  = adalah variable untung
             
-  B. Process
+  B. Process  
       for i in range(1,9,1):
        if(i<3):
         laba = 0
@@ -170,24 +168,40 @@ A. Input
         ##"for"	= Perulangan yang terhitung.
         ##"range" = Mengembalikan deret integer berurut pada range yang ditentukan dari start sampai stop.
         
-   C.Output
+   C.Output  
       print("Laba Bulan Ke-",i," Sebesar ",laba)    ## Mencetak laba per bulan'
       >> Mencetak laba per bulan
     print("\nTotal Laba adalah: ",untung)
       >> Mencetak total laba    
 
-## SCREENSHOOT INPUT DAN OUTPUT  
+## SCREENSHOOT INPUT DAN OUTPUT   
+ 
 
-![input/output](https://github.com/dimashst777/labspy03/blob/master/program11.py)  
-
-
-
+![input/output](https://github.com/dimashst777/labspy03/blob/master/program11.py)    
 
 
-                                                                      DIMAS HIDAYAT PARLUHUTAN HUTASUHUT
-                                                                                311910159
-                                                                               T.I.19.A.1
 
+Dimas Hidayat Parluhutan Hutasuhut
+T.I.19.A.1.
+NIM:311910159
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                      
 
 
 

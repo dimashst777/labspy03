@@ -63,7 +63,7 @@ C. Output
 
 # LATIHAN 2  
 
-    ## SOURCE CODE   
+## SOURCE CODE   
 
 x = int()                                ## Memperkenalkan variable x sebagai integer, kemudian menginputkan nilainya
 y = 0                                    ## Memperkenalkan variable y dengan nilai 0
